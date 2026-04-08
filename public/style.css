@@ -84,3 +84,15 @@ img {
   display: flex;
   gap: 8px;
 }
+
+.btn {
+  background: #f5efe0;
+  color: #4a4a4a;
+  text-decoration: none;
+  font-size: 14px;
+  padding: 8px 16px;
+  border-radius: 6px;
+  font-family: Georgia, serif;
+  transition: background 0.2s;
+  font-weight: bold;
+}
